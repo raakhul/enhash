@@ -14,8 +14,7 @@ $ cargo build --release
 
 If input string has space between two words, enclose them within single quotes ('').
 
-Example:
-Hello Rust -> 'Hello Rust'
+**Ex:** Hello Rust -> 'Hello Rust'
 
 **Encoding:**
 
