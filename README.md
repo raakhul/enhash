@@ -4,11 +4,11 @@ CLI Tool for Encoding, Hashing.
 
 ## Installation
 
-$ git clone https://gitlab.com/raakhul/enhash
+git clone https://gitlab.com/raakhul/enhash
 
-$ cd enhash
+cd enhash
 
-$ cargo build --release
+cargo build --release
 
 ## Usage
 
@@ -18,8 +18,8 @@ If input string has space between two words, enclose them within single quotes (
 
 **Encoding:**
 
-$ cargo run --release -- -e base64 'Hello Rust'
+cargo run --release -- -e base64 'Hello Rust'
 
 **Hashing:**
 
-$ cargo run --release -- -s sha256 'Hello Rust'
+cargo run --release -- -s sha256 'Hello Rust'
