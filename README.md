@@ -4,7 +4,7 @@ CLI Tool for Encoding, Hashing.
 
 ## Installation
 
-git clone https://gitlab.com/raakhul/enhash
+git clone https://github.com/raakhul/enhash
 
 cd enhash
 
