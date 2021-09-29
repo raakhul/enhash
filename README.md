@@ -12,7 +12,7 @@ cargo build --release
 
 ## Usage
 
-If input string has space between two words, enclose them within single quotes ('').
+If input string has space between two words, enclose them within single quotes (' ').
 
 **Ex:** Hello Rust -> 'Hello Rust'
 
